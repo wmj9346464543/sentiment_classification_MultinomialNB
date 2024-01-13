@@ -1,0 +1,2 @@
+# sentiment_classification_MultinomialNB
+基于朴素贝叶斯实现中文文本情感分析
